@@ -1,9 +1,9 @@
 # Weather Application
 
 ## Description
-This project is developed using Python.
+This Weather Application is developed using Python.
 
-It displays the current weather of any city entered by the user.
+It allows users to enter a city name and view the current weather information.
 
 ## Features
 - Search weather by city
@@ -11,10 +11,18 @@ It displays the current weather of any city entered by the user.
 - Humidity
 - Pressure
 - Wind Speed
+- Weather Description
 - Error Handling
 
-## Language
-Python
+## Technologies Used
+- Python
+- Requests Library
+- OpenWeatherMap API
+
+## Files
+- weather_app.py
+- README.md
+- screenshot.png
 
 ## Author
 ANUSHRI
